@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "first_name": "Eltim",
+    "last_name": "Michael",
+    "email": "eltim@mail.com",
+    "subject_id": [1, 3, 5]
+  },
+  {
+    "id": 2,
+    "first_name": "Ferdy",
+    "last_name": "Josenna",
+    "email": "ferdy@mail.com",
+    "subject_id": [2, 5]
+  },
+  {
+    "id": 3,
+    "first_name": "Lisa",
+    "last_name": "Eika",
+    "email": "lieika@mail.com",
+    "subject_id": [4]
+  },
+  {
+    "id": 4,
+    "first_name": "Joshua",
+    "last_name": "Clive",
+    "email": "jclive@mail.com",
+    "subject_id": [2, 4, 5]
+  }
+]

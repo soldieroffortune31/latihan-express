@@ -1,0 +1,42 @@
+[
+  {
+    "first_name": "Mickey",
+    "last_name": "Sumardi",
+    "subject_name": "Math"
+  },
+  {
+    "first_name": "Stive",
+    "last_name": "Jabs",
+    "subject_name": "Chem"
+  },
+  {
+    "first_name": "Le",
+    "last_name": "Minerale",
+    "subject_name": "Chem"
+  },
+  {
+    "first_name": "Stive",
+    "last_name": "Jabs",
+    "subject_name": "Econ"
+  },
+  {
+    "first_name": "Jack",
+    "last_name": "Pa",
+    "subject_name": "PE"
+  },
+  {
+    "first_name": "Nelson",
+    "last_name": "Mandela",
+    "subject_name": "Econ"
+  },
+  {
+    "first_name": "Bear",
+    "last_name": "Brand",
+    "subject_name": "Math"
+  },
+  {
+    "first_name": "Donald",
+    "last_name": "Duck",
+    "subject_name": "History"
+  }
+]

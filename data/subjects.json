@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "subject_name": "Chem"
+  },
+  {
+    "id": 2,
+    "subject_name": "Econ"
+  },
+  {
+    "id": 3,
+    "subject_name": "PE"
+  },
+  {
+    "id": 4,
+    "subject_name": "Math"
+  },
+  {
+    "id": 5,
+    "subject_name": "History"
+  }
+]
